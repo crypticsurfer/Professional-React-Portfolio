@@ -1,0 +1,17 @@
+.base {
+    display: flex;
+}
+
+.icon-container {
+    margin: 0 0 1rem 3rem;
+    text-align: center;
+}
+
+.text-container {
+    margin: 0 3rem;
+    /* max-width: 100rem; */
+}
+
+.text-container p {
+    font-size: 24px;
+}
