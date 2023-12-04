@@ -21,13 +21,13 @@ export default function Resume() {
                 <div className="doc">
                     <h2>Summary</h2>
                     <p>
-                        Professional software engineer with 2+ years of application development experience.
-                        Programming experience in Python, React, and PHP. Enjoys collaborating in a team environment
-                        to develop new and upgrade existing products. Bachelor's Degree in computer science.
+                        Well versed in communication and team building. Would like to enter the tech industry
+                        through this full stack web development bootcamp. Enjoys collaborating in a team environment
+                        to develop new and upgrade existing products and websites. Bachelor's Degree Organizational Communications
                     </p>
                     <h2>Skills</h2>
-                    <p>Programming: Python, React, Node.js, JavaScript, PHP, MongoDB, SQL, C++, HTML, Dart, Java, Bash</p>
-                    <p>Applications: JIRA, Docker, Kubernetes, Helm, Postman, Confluence, PHPStorm, Visual Studio Code</p>
+                    <p>Programming: React, Node.js, JavaScript, MongoDB, SQL, HTML, Bash</p>
+                    <p>Applications: Visual Studio Code</p>
                     <h2>Experience</h2>
                     <Job title="Full Stack Engineer II" start="May 2020" end="Oct 2022"
                         company="Sage Intacct" location="Beaverton, OR"
@@ -38,9 +38,9 @@ export default function Resume() {
                     <h2>Education</h2>
                     <div className="education-title">
                         <h3>University of Portland</h3>
-                        <h3>May 2020</h3>
+                        <h3>May 2021</h3>
                     </div>
-                    <p>Bachelor of Science, Computer Science | Minor: Philosophy</p>
+                    <p>Bachelor of Science, Organizational Communications</p>
                 </div>
             </div>
         </div>

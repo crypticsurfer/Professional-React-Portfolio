@@ -5,7 +5,7 @@ export default function About() {
         <div className="base">
             <div className="icon-container">
                 <img src={profilepic} alt="Profile picture" width={400} height={400}/>
-                <h2>25 | Software Developer</h2>
+                <h2>25 | Full Stack Web Developer</h2>
                 <h2>Ogden, Utah</h2>
             </div>
             <div className="text-container">
