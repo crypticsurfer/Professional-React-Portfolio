@@ -29,11 +29,11 @@ export default function Resume() {
                     <p>Programming: React, Node.js, JavaScript, MongoDB, SQL, HTML, Bash</p>
                     <p>Applications: Visual Studio Code</p>
                     <h2>Experience</h2>
-                    <Job title="Full Stack Engineer II" start="May 2020" end="Oct 2022"
-                        company="Sage Intacct" location="Beaverton, OR"
-                        one="Developed project contract creation onto PHP web application for construction financial services"
-                        two="Documented API changed in 12-page document with use cases and presented work in formal review"
-                        three="Feature became key highlight of the accounting product and led to a 200% increse of total customers"
+                    <Job title="Events Marketing" start="July 2020" end="May 2022"
+                        company="none" location="Morgan, UT"
+                        one="Worked on Marketing and beer events for Talisman Brewing"
+                        two="Implemented HubSpot workflows and html emails for OLO Builders"
+                        three="Implemented the design aspects of HubSpot, created pamphlet designs for marketing, and created html emails"
                     />
                     <h2>Education</h2>
                     <div className="education-title">
