@@ -1,0 +1,9 @@
+.project-column {
+    margin: 1vh 3rem;
+}
+
+.project-row {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 1vh;
+}
