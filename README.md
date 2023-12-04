@@ -13,6 +13,8 @@
   Navigate to the deployed app [HERE](https://sensational-axolotl-5b5e5f.netlify.app/)
   ## Usage
   View my portfolio to make an informed employment decision
+  ![Professional Portfolio](https://github.com/crypticsurfer/Professional-React-Portfolio/assets/130003418/a38e77db-ce62-492f-aa48-ef141c6823b4)
+
   ## License
   MIT
   
