@@ -14,7 +14,7 @@
   ## Usage
   View my portfolio to make an informed employment decision
   ## License
-  No License
+  MIT
   
   ## Contributing
   
