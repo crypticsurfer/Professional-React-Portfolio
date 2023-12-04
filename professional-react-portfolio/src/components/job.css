@@ -1,0 +1,8 @@
+.job {
+    margin-bottom: 1rem;
+}
+
+.job-title {
+    display: flex;
+    justify-content: space-between;
+}

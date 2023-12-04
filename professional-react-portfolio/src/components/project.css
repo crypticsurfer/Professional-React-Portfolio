@@ -1,0 +1,19 @@
+.project {
+    display: flex;
+    min-width: 49%;
+    background-color: burlywood;
+    align-items: center;
+    padding: 3rem 0;
+}
+
+.project-icon {
+    margin-left: 3rem;
+}
+
+.project-text {
+    margin-left: 1rem;
+}
+
+.project-links {
+    display: flex;
+}
